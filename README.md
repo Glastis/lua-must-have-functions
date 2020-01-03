@@ -17,7 +17,7 @@ json.stringify(my_table) -- will return a printable string
 
 ## Utilities
 
-Use this by adding `utilities = require 'utilities'`.
+Use this by adding `local utilities = require 'utilities'`.
 
 ### Trim
 
@@ -122,7 +122,7 @@ utilities.round(number, decimals, ext_abs) -- return 1.12
 
 ## File
 
-Use this by adding `file = require 'file'`.
+Use this by adding `local file = require 'file'`.
 
 ### Is existing
 
