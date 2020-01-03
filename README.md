@@ -122,7 +122,7 @@ utilities.round(number, decimals, ext_abs) -- return 1.12
 
 ## File
 
-Use this by adding `utilities = require 'utilities'`.
+Use this by adding `file = require 'file'`.
 
 ### Is existing
 
